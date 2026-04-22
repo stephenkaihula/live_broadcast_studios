@@ -1,0 +1,1 @@
+window.CPOrchestrator={init:()=>console.log('init')};

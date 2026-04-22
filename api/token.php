@@ -1,0 +1,1 @@
+<?php echo json_encode(['ok'=>true,'token'=>'demo']);

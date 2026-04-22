@@ -1,0 +1,1 @@
+Frontend → API → LiveKit → MediaMTX → Output
